@@ -9,6 +9,3 @@ first string2
 second string2
 third string2
 
-first string2 - for tevert
-second string2 - for tevert
-third string2 - for tevert
