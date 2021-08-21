@@ -4,11 +4,11 @@ third string
 fourth string
 
 
+first string  - 1
 
-first string2
-second string2
-third string2
+second string - 1
 
-first string2 - for tevert
-second string2 - for tevert
-third string2 - for tevert
+third string  - 1
+fourth string  -1
+
+
