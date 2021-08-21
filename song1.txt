@@ -1,0 +1,14 @@
+first string 
+second string
+third string
+fourth string
+
+
+first string  - 1
+
+second string - 1
+
+third string  - 1
+fourth string  -1
+
+
