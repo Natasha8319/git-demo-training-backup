@@ -30,6 +30,10 @@ second string - mainbranch commit2
 third string  - mainbranch commit2
 fourth string  -mainbranch commit2
 
+first string  - featurebranch commit2
+second string - featurebranch commit2
+third string  - featurebranch commit2
+fourth string  -featurebranch commit2
 
 
 
