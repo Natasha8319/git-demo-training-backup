@@ -14,4 +14,9 @@ second string - featurebranch
 third string  - featurebranch
 fourth string  -featurebranch
 
+first string  - featurebranch1
+second string - featurebranch1
+third string  - featurebranch1
+fourth string  -featurebranch1
+
 
