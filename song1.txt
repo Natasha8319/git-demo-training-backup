@@ -20,20 +20,6 @@ third string  - featurebranch1
 fourth string  -featurebranch1
 
 
-first string  - mainbranch commit1
-second string - mainbranch commit1
-third string  - mainbranch commit1
-fourth string  -mainbranch commit1
-
-first string  - mainbranch commit2
-second string - mainbranch commit2
-third string  - mainbranch commit2
-fourth string  -mainbranch commit2
-
-first string  - featurebranch commit2
-second string - featurebranch commit2
-third string  - featurebranch commit2
-fourth string  -featurebranch commit2
 
 
 
